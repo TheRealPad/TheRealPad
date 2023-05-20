@@ -27,3 +27,10 @@ My Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheRealPad&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheRealPad&theme=dracula)
 
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="https://komarev.com/ghpvc/?username=TheRealPad&color=blue&style=flat)" />
+  </a>
+</p>
+
+
