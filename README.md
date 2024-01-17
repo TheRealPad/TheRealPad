@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/TheRealPad">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Pierre-Alexandre+Delgado;Student+Software+Engineer;Fullstack+%7C+DevOps+%7C+Android+%7C+ML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Pierre-Alexandre+Delgado;Student+Software+Engineer;Fullstack+%7C+DevOps+%7C+Android+%7C+Database" alt="Typing SVG" />
 </a>
 <br/>
 
