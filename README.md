@@ -14,10 +14,6 @@
 
 * 📖 Student at [Epitech Paris](https://www.epitech.eu/) and at [San Francisco State University](https://www.sfsu.edu/) for 2023/2024. 
 
-
-* 💻 Currently working on TodoList application like Trello
-
-
 <summary>📈 Stats</summary>
 <br>
 My Github Stats
