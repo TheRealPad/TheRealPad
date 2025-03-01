@@ -12,7 +12,8 @@
 
 </p>
 
-* 📖 Student at [Epitech Paris](https://www.epitech.eu/) and at [San Francisco State University](https://www.sfsu.edu/) for 2023/2024. 
+* 📖 Student at [Epitech Paris](https://www.epitech.eu/) and at [San Francisco State University](https://www.sfsu.edu/) for 2023/2024.
+* 💼 In internship at [Sopra Steria](https://www.soprasteria.com/fr)
 
 <summary>📈 Stats</summary>
 <br>
